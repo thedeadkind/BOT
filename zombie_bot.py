@@ -4,7 +4,6 @@ from random import choice
 import discord
 import random
 import os
-import youtube_dl as ytdl
 import urllib.request
 import re
 import time
