@@ -268,4 +268,4 @@ async def drole(ctx,message):
 	await existing_role.delete()
 
 
-client.run("NzY2NjI1NjU0NjgxNzYzODQw.X4mFxw.7fYGIzEvhbAsDTrf3rKJ8hTIN5g")
+client.run("token")
